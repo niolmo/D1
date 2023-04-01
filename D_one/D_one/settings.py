@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     #И еще
     'django.contrib.sites',
     'django.contrib.flatpages',
+    'fpages'
 ]
 
 MIDDLEWARE = [
